@@ -8,7 +8,7 @@
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
-Used some auto complete built in Android Studio. 
+Used some auto complete/fill in built in Android Studio, such as with setter in participation exercise. 
 
 ## Verbal Collaboration
 
