@@ -64,7 +64,7 @@ public class AddCityFragment extends DialogFragment {
                 .setPositiveButton("Add", (dialog, which) -> {
                     String cityName = editCityName.getText().toString();
                     String provinceName = editProvinceName.getText().toString();
-
+                    // if city already there then edit it, if its not then add it
                     if (city != null) {
                         city.setName(cityName);
                         city.setProvince(provinceName);
